@@ -5,9 +5,10 @@
 package torneo_biba;
 
 /**
- *
- * @author B045_06
+ * @author Biba Arli
+ * @see Scheda esercitazione 
  */
+
 public class Torneo_Biba {
 
     /**
